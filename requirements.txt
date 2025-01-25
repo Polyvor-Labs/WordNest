@@ -1,0 +1,7 @@
+torch
+torchinfo
+argparse
+numpy
+matplotlib
+tqdm
+scikit-learn
